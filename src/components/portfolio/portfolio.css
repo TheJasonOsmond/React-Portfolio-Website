@@ -7,8 +7,8 @@
 .portfolio__item {
     background: var(--color-bg-variant);
     display: grid;
-    grid-template-columns: 45% 50%;
-    gap: 5%;
+    grid-template-columns: 47% 50%;
+    gap: 3%;
     padding: 1.3rem;
     border-radius: 2rem;
     border: 1px solid transparent;
@@ -34,7 +34,7 @@
 .portfolio__item p{
     color: var(--color-light);
     display: block;
-    width: 90%;
+    width: 100%;
     margin-bottom: 1rem;
 }
 
@@ -51,6 +51,11 @@
     overflow: hidden;
 }
 
+
+.portfolio__item-cta-icon{
+    font-size: 0.8rem;
+}
+
 /* ================= MEDIA QUERIES (MEDIUM DEVICES) ================= */
 @media screen and (max-width: 1024px){
     .portfolio__container {
@@ -63,9 +68,6 @@
         gap: 1.2rem;     
     }
     
-    .portfolio__item p{
-        width: 100%;
-    }
 
 }
 
@@ -82,7 +84,4 @@
         gap: 1.2rem;     
     }
 
-    .portfolio__item p{
-        width: 100%;
-    }
 }
