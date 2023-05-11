@@ -36,12 +36,12 @@ const Contact = () => {
              <BsLinkedin className='contact__option-icon'/>
              <h4>LinkedIn</h4>
              <h5>JasonOsmond</h5>
-             <a href='https://www.linkedin.com/in/jasonosmond/' target="_blank">Send a message</a>
+             <a href='https://www.linkedin.com/in/jasonosmond/' target="_blank">Connect</a>
           </article>
         </div>
         <form ref={form} className='contact__form' onSubmit={sendEmail}>
-          <input type="text" name='name' placeholder="Your Full Nanme" required/>
-          <input type="email" name='email' placeholder="Your Email" required/>
+          <input type="text" name='name' placeholder="Your Full Name" required/>
+          <input type="email" name='email' placeholder="Your Email Address" required/>
           <textarea name="message" rows="7" placeholder='Your Message' required></textarea>
           <button type='submit' className='btn btn-primary'> Send Message</button>
         </form>

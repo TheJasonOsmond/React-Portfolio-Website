@@ -49,6 +49,7 @@ const Experience = () => {
             </article>
           </div>
         </div>
+        {/* END OF FIRST SECTION (FRONT END) */}
         <div className='experience__backend'>
           <h3>Backend Development</h3>
           <div className='experience__content'>
