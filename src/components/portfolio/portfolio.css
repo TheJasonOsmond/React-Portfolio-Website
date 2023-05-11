@@ -7,7 +7,8 @@
 .portfolio__item {
     background: var(--color-bg-variant);
     display: grid;
-    grid-template-columns: 60% 40%;
+    grid-template-columns: 45% 50%;
+    gap: 5%;
     padding: 1.3rem;
     border-radius: 2rem;
     border: 1px solid transparent;
