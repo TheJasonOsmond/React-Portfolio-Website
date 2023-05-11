@@ -1,9 +1,9 @@
-import React, { useRef, useState } from "react";
+import React from "react";
 import './testimonials.css'
 import AVTR1 from '../../assets/avatar1.jpg'
-import AVTR2 from '../../assets/avatar1.jpg'
-import AVTR3 from '../../assets/avatar1.jpg'
-import AVTR4 from '../../assets/avatar1.jpg'
+// import AVTR2 from '../../assets/avatar1.jpg'
+// import AVTR3 from '../../assets/avatar1.jpg'
+// import AVTR4 from '../../assets/avatar1.jpg'
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
