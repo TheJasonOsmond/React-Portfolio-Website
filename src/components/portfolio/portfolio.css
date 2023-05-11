@@ -52,6 +52,7 @@
 
 .portfolio__item-image{
     border-radius: 1.5rem;
+    border: 1px solid var(--color-primary-variant);
     height: fit-content;
     overflow: hidden;
 }
