@@ -33,7 +33,7 @@ const Portfolio = () => {
             <a href='https://github.com/TheJasonOsmond/React-Portfolio-Website' className='btn' target='_blank'>  
             <BsGithub className='portfolio__item-cta-icon'/> GitHub 
             </a>
-              <a href='https://jasonosmond.com' className='btn btn-primary' target='_blank'>View Project</a>
+              <a href='https://jasonosmond.com' className='btn btn-primary' target='_blank'>View Pro-...wait.</a>
             </div>
           </div>
           <div className='portfolio__item-image'>
@@ -73,7 +73,7 @@ const Portfolio = () => {
             “If we want users to like our software, we should design it to behave like a likeable person: respectful, generous and helpful.” — Alan Cooper
             </p> 
             <p>
-              We concentrated on what the user's needed and delievered an evolutionary design that guides all types of users through course registration.
+              In this project, we focused on creating an excellent user experience. We concentrated on what the user's needed and delievered an evolutionary design that guides all types of users through course registration.
             </p> 
 
             <div className='portfolio__item-cta'>
@@ -88,12 +88,12 @@ const Portfolio = () => {
           </div>
         </article>
         {/* CHECKOUT SOFTWARE */}
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className='portfolio__item-info'>
-            <h3>DIY Checkout Software</h3>
+            <h3>Self-Checkout Software</h3>
             <h4>December 2022</h4>
             <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
+
             </p> 
             <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
@@ -108,17 +108,18 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG4} alt="" />
           </div>
-        </article>
+        </article> */}
         {/* Cyber Security Learning Application */}
-        {/* <article className='portfolio__item'>
+        <article className='portfolio__item'>
           <div className='portfolio__item-info'>
             <h3>Cyber Security Learning Application</h3>
             <h4>December 2022</h4>
             <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
+             Cybersecurity is not just important for businesses but also for most areas of modern life.
             </p> 
             <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
+            With this crash course application, users learn from basic and advanced lessons on cybersecurity, providing an introduction to many topics, 
+            including the basic principles of security and privacy, malware, and cryptography. 
             </p> 
 
             <div className='portfolio__item-cta'>
@@ -130,17 +131,17 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG5} alt="" />
           </div>
-        </article> */}
+        </article>
         {/* ECOROUTE */}
         <article className='portfolio__item'>
           <div className='portfolio__item-info'>
             <h3>EcoRoute</h3>
             <h4>February 2022</h4>
             <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
+              Did you know automobiles and light trucks account for about 11% of Canada's total greenhouse gas emissions?
             </p> 
             <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
+              Through this hackathon project, we wanted to provide Canadians a tool that would encourage using sustainable modes of transportation. Our approach was to create a tool to calculate time efficient transportation routes that prioritize sustainablilty. By itself it won't change the world, but it's a step in the right direction (pun intended).
             </p> 
 
             <div className='portfolio__item-cta'>
