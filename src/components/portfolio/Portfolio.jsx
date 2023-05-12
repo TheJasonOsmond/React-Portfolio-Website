@@ -23,10 +23,10 @@ const Portfolio = () => {
             <h3>React Portfolio Website</h3>
             <h4>May 2023</h4>
             <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
+            While resumes are great, why not also build a stunning website to showcase my abilities. So I did exactly that.
             </p> 
             <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
+            I hope by exploring this site, you can get a sense of who I am. I even included some hidden easter eggs. Try to find them!
             </p> 
 
             <div className='portfolio__item-cta'>
@@ -40,16 +40,40 @@ const Portfolio = () => {
             <img src={IMG1} alt="" />
           </div>
         </article>
+        {/* CLASSMATE */}
+        <article className='portfolio__item'>
+          <div className='portfolio__item-info'>
+            <h3>ClassMate: Schedule Sharing Tool</h3>
+            <h4>April 2023</h4>
+            <p>
+              The days of loneliness are over! With this tool, students can now coordinate courses and free time together. This means more smiles both inside and outside of class.  
+            </p> 
+            <p>
+              See the courses your friends are taking, and add them to your own schedule. It's that easy! Want to coordinate free time with a student at another institution, that's fine, this app can support any institution across the globe.
+            </p> 
+
+            <div className='portfolio__item-cta'>
+            <a href='https://github.com/jayzk/CPSC481_FinalProject' className='btn' target='_blank'>  
+            <BsGithub className='portfolio__item-cta-icon'/> GitHub 
+            </a>
+            </div>
+          </div>
+          <div className='portfolio__item-image'>
+            <img src={IMG3} alt="" />
+          </div>
+        </article>
         {/* COURSEZ */}
         <article className='portfolio__item'>
           <div className='portfolio__item-info'>
             <h3>CoursEZ: Course Registration System</h3>
             <h4>April 2023</h4>
             <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
+            {/* “Design is in everything we make, but it’s also between those things. It’s a mix of craft, science, storytelling, propaganda, and philosophy.” - Erik Edigard */}
+            {/* “Socrates said, “Know thyself.” I say, “Know thy users.” And guess what? They don’t think like you do.” - Joshua Brewer */}
+            “If we want users to like our software, we should design it to behave like a likeable person: respectful, generous and helpful.” — Alan Cooper
             </p> 
             <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
+              We concentrated on what the user's needed and delievered an evolutionary design that guides all types of users through course registration.
             </p> 
 
             <div className='portfolio__item-cta'>
@@ -61,28 +85,6 @@ const Portfolio = () => {
           </div>
           <div className='portfolio__item-image'>
             <img src={IMG2} alt="" />
-          </div>
-        </article>
-        {/* CLASSMATE */}
-        <article className='portfolio__item'>
-          <div className='portfolio__item-info'>
-            <h3>ClassMate: Schedule Sharing Tool</h3>
-            <h4>April 2023</h4>
-            <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
-            </p> 
-            <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis alias odit qui, eum ducimus quia non officia sapiente rem accusamus? Quasi molestias, sunt quaerat esse veniam at ducimus minima debitis?
-            </p> 
-
-            <div className='portfolio__item-cta'>
-            <a href='https://github.com/jayzk/CPSC481_FinalProject' className='btn' target='_blank'>  
-            <BsGithub className='portfolio__item-cta-icon'/> GitHub 
-            </a>
-            </div>
-          </div>
-          <div className='portfolio__item-image'>
-            <img src={IMG3} alt="" />
           </div>
         </article>
         {/* CHECKOUT SOFTWARE */}
@@ -108,7 +110,7 @@ const Portfolio = () => {
           </div>
         </article>
         {/* Cyber Security Learning Application */}
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className='portfolio__item-info'>
             <h3>Cyber Security Learning Application</h3>
             <h4>December 2022</h4>
@@ -128,7 +130,7 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG5} alt="" />
           </div>
-        </article>
+        </article> */}
         {/* ECOROUTE */}
         <article className='portfolio__item'>
           <div className='portfolio__item-info'>
@@ -153,7 +155,7 @@ const Portfolio = () => {
           </div>
         </article>
         {/* Benny Beaver */}
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className='portfolio__item-info'>
             <h3>Benny Beaver</h3>
             <h4>February 2021</h4>
@@ -174,7 +176,7 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG7} alt="" />
           </div>
-        </article>
+        </article> */}
       </div>
     </section>
   )
