@@ -23,7 +23,7 @@ const Portfolio = () => {
             <h3>React Portfolio Website</h3>
             <h4>May 2023</h4>
             <p>
-            While resumes are great, why not also build a stunning website to showcase my abilities. So I did exactly that.
+            While resumes are great, I thought why not also build a stunning website to showcase my abilities. So I did exactly that.
             </p> 
             <p>
             I hope by exploring this site, you can get a sense of who I am. I even included some hidden easter eggs. Try to find them!
