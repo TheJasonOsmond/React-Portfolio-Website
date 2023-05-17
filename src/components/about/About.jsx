@@ -41,15 +41,13 @@ const About = () => {
           <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
           sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Eget lorem dolor sed viverra ipsum nunc aliquet bibendum.
+          Eget lorem dolor sed viverra ipsum nunc aliquet bibendue.
           </p>
 
           <a href='#contact' className='btn btn-primary'> Let's Talk</a>
         </div>
       </div>   
     </section>
-
-
   )
 }
 
