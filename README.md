@@ -1,5 +1,7 @@
 # Go to https://jasonosmond.com/ to Check it out!
 
+## Click here ^ 
+
 # Installation
 
 In the project directory, you can run:
