@@ -1,6 +1,6 @@
-# Go to https://jasonosmond.com/ to Check it out!
+# Go to https://jasonosmond.com/ to check it out!
 
-## Click here ^ 
+### Click on the link above!
 
 # Installation
 
