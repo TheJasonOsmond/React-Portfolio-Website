@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8dfd5a1.css",
+    "main.js": "/static/js/main.f5f0dc26.js",
+    "static/media/cpsc329.png": "/static/media/cpsc329.f03eabc454c48add32ec.png",
+    "static/media/ecoroute.png": "/static/media/ecoroute.e825e5a669e41f36e437.png",
+    "static/media/avatar1.jpg": "/static/media/avatar1.98a0cd2dd2a94623b8a4.jpg",
+    "static/media/me-about.jpg": "/static/media/me-about.98a0cd2dd2a94623b8a4.jpg",
+    "static/media/classmate.JPG": "/static/media/classmate.8e7cd2cc605de2073dc9.JPG",
+    "static/media/benny-beaver.png": "/static/media/benny-beaver.ebfc2ee443694d9b34a2.png",
+    "static/media/checkout.JPG": "/static/media/checkout.92399a3487ed5064da37.JPG",
+    "static/media/coursez.JPG": "/static/media/coursez.da8510d5ae2dd56fa05a.JPG",
+    "static/media/Jason Osmond Resume 2023.pdf": "/static/media/Jason Osmond Resume 2023.43696f17470bdca8effc.pdf",
+    "static/media/react-website.JPG": "/static/media/react-website.346d3082d0608e34c020.JPG",
+    "static/media/me.png": "/static/media/me.cb40afd7045faecac780.png",
+    "static/media/bg-texture.png": "/static/media/bg-texture.8a1abc775dec4ce9e1d1.png",
+    "index.html": "/index.html",
+    "main.c8dfd5a1.css.map": "/static/css/main.c8dfd5a1.css.map",
+    "main.f5f0dc26.js.map": "/static/js/main.f5f0dc26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8dfd5a1.css",
+    "static/js/main.f5f0dc26.js"
+  ]
+}

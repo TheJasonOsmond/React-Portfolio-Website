@@ -43,9 +43,9 @@ const About = () => {
           </p>
           <p>
             From memorable hackathon experiences to challenging long-term projects, I cherish the opportunities, friendships, and memories that computer science has brought me. I'm dedicated to constantly expanding my knowledge and expertise in order to make a positive impact on both the community and real-world challenges affecting people worldwide.
-            </p>
+          </p>
           <p>
-            When I'm not engrossed in coding, you can find me conquering new heights on the bouldering wall, shooting hoops on the basketball court, or unwinding with a captivating book or show.
+            When I'm not coding, you can catch me honing my artistic skills through sketching, exercising at the gym, or unwinding with a new book or show.
           </p>
 
           <a href='#contact' className='btn btn-primary'> Let's Talk</a>

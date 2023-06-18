@@ -49,7 +49,7 @@ const Portfolio = () => {
               The days of loneliness are over! With this tool, students can now coordinate courses and free time together. This means more smiles both inside and outside of class.  
             </p> 
             <p>
-              See the courses your friends are taking, and add them to your own schedule. It's that easy! Want to coordinate free time with a student at another institution, that's fine, this app can support any institution across the globe.
+              See the courses your friends are taking, and add them to your own schedule. It's that easy! Want to coordinate free time with a student at another university, that's fine, this app can support any institution across the globe.
             </p> 
 
             <div className='portfolio__item-cta'>
